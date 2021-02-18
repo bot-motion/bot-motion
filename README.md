@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🔭 Check out what I'm up to at https://bot-motion.github.io/
 
 <!--
 **bot-motion/bot-motion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
